@@ -7,3 +7,4 @@ scemo chi legge
 ### metro gialla
 - comasina
 - affori fn
+- affori centro
